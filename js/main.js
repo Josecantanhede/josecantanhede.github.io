@@ -256,7 +256,7 @@
 		var owl = $('.owl-carousel1');
 		owl.owlCarousel({
 			animateOut: 'slideOutDown',
-		   animateIn: 'flipInX',
+		   animateIn: 'fadeIn',
 			autoplay: true,
 			items: 1,
 		   loop: true,
@@ -272,9 +272,8 @@
 		});
 
 		$('.owl-carousel2').owlCarousel({
-			 animateOut: 'slideOutDown',
-		    animateIn: 'flipInX',
-			 autoplay: true,
+			animateOut: 'fadeOut',
+		    autoplay: true,
 		    loop:true,
 		    margin:30,
 		    nav:true,
