@@ -115,7 +115,7 @@ h1, h2, h3, h4, h5, h6, figure {
         font-size: 20px;
         padding: 30px 12px;
 /*        color: rgba(255, 255, 255, 0.7); */
-        color: #fff;
+        color: #006caf;
         -webkit-transition: 0.5s;
         -o-transition: 0.5s;
         transition: 0.5s; }
@@ -458,7 +458,7 @@ h1, h2, h3, h4, h5, h6, figure {
     left: 0; }
     .services .icon i {
       font-size: 50px;
-      color: #FFCD00; }
+      color: #006caf; }
   .services .desc {
     padding-left: 75px; }
     .services .desc h3 {
@@ -504,8 +504,8 @@ h1, h2, h3, h4, h5, h6, figure {
     color: #000; }
   #colorlib-project .owl-theme .owl-controls .owl-nav [class*=owl-] {
     padding: 8px;
-    background: #FFCD00;
-    border: 1px solid #ffcd00;
+    background: #006caf;
+    border: 1px solid #006caf;
     -webkit-border-radius: 0;
     -moz-border-radius: 0;
     -ms-border-radius: 0;
@@ -513,12 +513,12 @@ h1, h2, h3, h4, h5, h6, figure {
     #colorlib-project .owl-theme .owl-controls .owl-nav [class*=owl-] i {
       border: none; }
     #colorlib-project .owl-theme .owl-controls .owl-nav [class*=owl-]:hover {
-      background: #FFCD00; }
+      background: #006caf; }
   #colorlib-project .owl-carousel .owl-controls .owl-nav .owl-next i,
   #colorlib-project .owl-carousel .owl-controls .owl-nav .owl-prev i {
     font-size: 14px;
     color: rgba(255, 255, 255, 0.7);
-    background: #FFCD00; }
+    background: #006caf; }
   #colorlib-project .owl-carousel .owl-controls .owl-nav .owl-next:hover i,
   #colorlib-project .owl-carousel .owl-controls .owl-nav .owl-prev:hover i {
     color: white; }
@@ -712,8 +712,8 @@ h1, h2, h3, h4, h5, h6, figure {
     color: #000; }
   #colorlib-testimony .owl-theme .owl-controls .owl-nav [class*=owl-] {
     padding: 8px;
-    background: #FFCD00;
-    border: 1px solid #ffcd00;
+    background: #006caf;
+    border: 1px solid #006caf;
     -webkit-border-radius: 0;
     -moz-border-radius: 0;
     -ms-border-radius: 0;
@@ -721,12 +721,12 @@ h1, h2, h3, h4, h5, h6, figure {
     #colorlib-testimony .owl-theme .owl-controls .owl-nav [class*=owl-] i {
       border: none; }
     #colorlib-testimony .owl-theme .owl-controls .owl-nav [class*=owl-]:hover {
-      background: #FFCD00; }
+      background: #006caf; }
   #colorlib-testimony .owl-carousel .owl-controls .owl-nav .owl-next i,
   #colorlib-testimony .owl-carousel .owl-controls .owl-nav .owl-prev i {
     font-size: 14px;
     color: rgba(255, 255, 255, 0.7);
-    background: #FFCD00; }
+    background: #006caf; }
   #colorlib-testimony .owl-carousel .owl-controls .owl-nav .owl-next:hover i,
   #colorlib-testimony .owl-carousel .owl-controls .owl-nav .owl-prev:hover i {
     color: white; }
@@ -935,7 +935,7 @@ article {
     padding-right: 10px; }
     .contact-info-wrap p span i {
       font-size: 20px;
-      color: #FFCD00; }
+      color: #006caf; }
 
 .form-control {
   -webkit-box-shadow: none;
@@ -1206,7 +1206,7 @@ input[type="text"] {
     width: 50px;
     height: 50px;
     display: table;
-    background: #ffcd00;
+    background: #006caf;
     color: #fff;
     text-align: center;
     -webkit-border-radius: 4px;
